@@ -59,3 +59,53 @@ In the Application/system which has this program.
 # How
 
 By entering the measurements of the induviduals bust size, waist size, high hip size, hip size.
+
+# High Level Requirements  
+
+    
+
+       1. ID          : HLR_01
+
+          DESCRIPTION : Visual Studio code platform.
+
+          PLATFORM    : Software.
+
+       
+
+       2. ID          : HLR_02
+
+          DESCRIPTION : Window 10 or Linux
+
+          PLATFORM    : Software.
+
+       
+
+       3. ID          : HLR_03
+
+          DESCRIPTION : GitHub
+
+          PLATFORM    : Software.
+
+
+
+
+
+# Low Level Requirements 
+
+
+
+      1. ID          : LLR_01
+
+          DESCRIPTION : Outfit Advisor
+
+       
+
+       2. ID          : LLR_02
+
+
+
+
+
+          DESCRIPTION : Formulas
+
+
