@@ -4,7 +4,7 @@ Introduction
 Choosing a best outfit is one of the challenges that we face while we go for shopping. Even after spending lots of time on shopping for dresses, 
 finally we buy a dress that we will not be fully satisfied in. Some dress that attracts us while its shown in the showcase, may not be good after we wear them on the big day.
 
-So, this project is to create an application that will help us choose the best suited outfit, that would be perfect for us, according to our body type, and skin color.
+So, this project is to calculate the body shape of female, according to their bust size, waist size, high hip size and hip size values. Then, according to to body shape, with respect to the choice of dress, jumsuits, shorts, skrits, jeans, the different types of the outfit chosen will be displayed which is best suitable for that particular body type, will be displayed .
 
 Research
 
