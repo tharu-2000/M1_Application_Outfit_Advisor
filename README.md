@@ -1,5 +1,9 @@
 # Requirements 
 
+![Code inspector CodeQuality](https://api.codiga.io/project/29965/score/svg)
+![Code inspector CodeQuality](https://api.codiga.io/project/29965/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a17d1018035144a6af5ed9ac35f063ec)](https://www.codacy.com/gh/tharu-2000/M1_Application_Outfit_Advisor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tharu-2000/M1_Application_Outfit_Advisor&amp;utm_campaign=Badge_Grade)
+
 # Introduction
 
 Choosing a best outfit is one of the challenges that we face while we go for shopping. Even after spending lots of time on shopping for dresses, finally we buy a dress that we will not be fully satisfied in. Some dress that attracts us while its shown in the showcase, may not be good after we wear them on the big day.
