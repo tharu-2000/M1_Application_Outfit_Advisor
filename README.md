@@ -1,6 +1,6 @@
 # Requirements 
 
-[![Code Quality - Static Code - Cppcheck](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/cppcheck.yml)
+
 [![CI-Coverage](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gcov.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gcov.yml)
 [![Unit Testing - Unity](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/unity.yml/badge.svg)](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/unity.yml)
 [![Code Quality - Static Code - Cppcheck](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/cppcheck.yml)
