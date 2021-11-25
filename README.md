@@ -1,5 +1,7 @@
 # Requirements 
 
+[![Unit Testing - Unity](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/unity.yml/badge.svg)](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/unity.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/tharu-2000/M1_Application_Outfit_Advisor/actions/workflows/cppcheck.yml)
 ![Code inspector CodeQuality](https://api.codiga.io/project/29965/score/svg)
 ![Code inspector CodeQuality](https://api.codiga.io/project/29965/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a17d1018035144a6af5ed9ac35f063ec)](https://www.codacy.com/gh/tharu-2000/M1_Application_Outfit_Advisor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tharu-2000/M1_Application_Outfit_Advisor&amp;utm_campaign=Badge_Grade)
